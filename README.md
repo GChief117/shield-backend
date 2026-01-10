@@ -218,7 +218,7 @@ tail -f storage/logs/laravel.log
 Key `.env` settings:
 
 ```env
-APP_NAME=InfraShield
+APP_NAME=Shield
 APP_ENV=local
 APP_DEBUG=true
 APP_URL=http://localhost:8000
