@@ -3,7 +3,8 @@
 Laravel 11 PHP Backend API for the Shield Cybersecurity Monitoring Dashboard.
 
 This respository is used to have them be hosted on Railway:
-<img width="1098" height="798" alt="Screenshot 2026-01-10 at 6 54 02 PM" src="https://github.com/user-attachments/assets/38760949-6ecd-439f-85da-9d8e7391e4fd" />
+<img width="947" height="1090" alt="Screenshot 2026-01-10 at 10 03 35 PM" src="https://github.com/user-attachments/assets/502d58b8-855a-40d2-8f26-e7b3c266395e" />
+
 
 
 ## Setup Instructions
