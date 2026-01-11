@@ -6,6 +6,9 @@ This respository is used to have them be hosted on Railway:
 <img width="947" height="1090" alt="Screenshot 2026-01-10 at 10 03 35 PM" src="https://github.com/user-attachments/assets/502d58b8-855a-40d2-8f26-e7b3c266395e" />
 
 
+<img width="701" height="66" alt="Screenshot 2026-01-10 at 10 07 36 PM" src="https://github.com/user-attachments/assets/cd7b24a7-1392-4ee2-bb4c-cf1a7d36239e" />
+
+
 
 ## Setup Instructions
 
